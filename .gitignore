@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+MINI-PROJECT_DESCRIPTION.pdf
 # C extensions
 *.so
 
