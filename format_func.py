@@ -1,6 +1,6 @@
 import pandas as pd
 
-from list_dict import rename_th_expend,rename_country_dict
+from list_dict import rename_th_expend,rename_country_dict,rename_th_stay_expend
 
 def format_th_arrival(df):
     arrival = df.copy()
@@ -26,3 +26,10 @@ def format_th_expend(df):
     # rename column
     expend.rename(columns=rename_th_expend,inplace=True)
     return expend
+
+def format_th_stay_expend(df):
+    stay = df.copy()
+    stay.rename(columns=rename_th_stay_expend,inplace=True)
+    stay['Country'] = stay['Country'].str.strip()
+    stay.drop(index=[61,62],inplace=True)
+    return stay
