@@ -33,3 +33,14 @@ def format_th_stay_expend(df):
     stay['Country'] = stay['Country'].str.strip()
     stay.drop(index=[61,62],inplace=True)
     return stay
+
+def format_th_stay_expend_2020(df):
+    stay = df.copy()
+    stay['Country'] = stay['Country'].str.strip()
+    stay['Country'] = stay['Country'].str.split().str.join(' ')
+    stay = stay.iloc[:370]
+    stay['Country'] = stay['Country'].ffill()
+    stay.dropna(subset=['Item'],axis=0,inplace=True)
+    stay.rename(columns={'Country':'Nationality',2020:'Values'},inplace=True)
+    stay= stay.loc[~stay['Nationality'].isin(['Others','Total'])]
+    return stay
