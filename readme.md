@@ -10,10 +10,10 @@
 ### Overall Tourist Arrivals in Thailand (2019 - 2022)
 * According to the **World Travel and Tourism Council (WTTC)**, travel and tourism contributed 21.6% to Thailand's GDP in 2019.
 * In 2019, tourism supported 8.9 million jobs in the country, which is around 21.5% of total employment in Thailand.
-* The number of international visitors increasing from 35.4 million in 2017 to 38.3 million in 2018.
-* In 2019, tourism generated revenue of around 1.9 trillion Thai baht for the Thai economy.
+* The number of international visitors increased from 35.4 million in 2017 to 38.3 million in 2018.
+* In 2019, tourism generated revenue of around 1.9 trillion Baht for the Thai economy.
 * The COVID-19 pandemic was officially declared by the World Health Organization (WHO) on March 11, 2020.  
-The pandamic has significantly impacted Thailand's tourism industry, with the number of international visitors dropping by more than 80% in 2020 compared to the previous year as can be seen from the bar chart below.  
+The pandemic has significantly impacted Thailand's tourism industry, with the number of international visitors dropping by more than 80% in 2020 compared to the previous year as can be seen from the bar chart below.  
 ![overall_tourist_arrival](https://user-images.githubusercontent.com/92035314/226192653-db63a3b1-ebe4-438e-971f-586641cedc19.png)
 
 ### Overall Tourist Arrivals in Thailand by Region (2019 - 2022)
@@ -27,7 +27,7 @@ When we convert the number of arrivals into proportions represented in fig. 2. E
 ### Proportion of Tourist Arrivals from East Asia (2019 - 2022)
 ![proportion_east_asia](https://user-images.githubusercontent.com/92035314/226196008-75c74e82-800d-4f61-85d2-fb00240737cc.png)
 
-The graph shows the proportion of tourists from different countries in East Asia during 2019-2022. It can be seen that in this period, most tourists will come from China, which accounts for 34% of the total. In second place is Malaysia with 19%, followed by Laos, Korea, and Japan with 7%, Singapore with 5%, Vietnam, Cambodia, and Hong Kong with 4%, Indonesia and Taiwan with 3%, the Philippines and Myanmar with 2% and finally Brunei with 0%.  
+The graph shows the proportion of tourists from different countries in East Asia during 2019 - 2022. It can be seen that in this period, most tourists will come from China, which accounts for 34% of the total. In second place is Malaysia with 19%, followed by Laos, Korea, and Japan with 7%, Singapore with 5%, Vietnam, Cambodia, and Hong Kong with 4%, Indonesia and Taiwan with 3%, the Philippines and Myanmar with 2% and finally Brunei with 0%.  
 
 We select the top 2 countries in East Asia to see the trend affected by COVID-19.
 ## Chinese Tourist
@@ -44,7 +44,7 @@ The expenditure from Chinese tourists in 2018 is 522,264.78 million Baht which i
 
 ## Malaysian Tourist
 ### Tourist Arrivals from Malaysia (2019 -2022)
-![line_malay](https://user-images.githubusercontent.com/92035314/226198641-aadb2d95-23c1-46f3-b4c9-54bfdb31adbd.png)
+![line_malay](https://user-images.githubusercontent.com/92035314/226203798-8c75b352-53aa-4862-8a71-f3a3916fb924.png)
 
 Malaysia is the 2nd country that likes to travel to Thailand. In 2019, 4.27 million Malaysian are coming to Thailand, and drop to 0.62 million people in 2020. The pandemic situation in Malaysia is less severe than in China. Therefore, we can see a good recovery from Malaysian people which is 1.95 million people visiting Thailand.  
 
@@ -80,3 +80,34 @@ UK people visited Thailand with nearly 1 million people in 2019. The number duri
 ![water_fall_uk](https://user-images.githubusercontent.com/92035314/226203232-e265103e-9b4f-4b4a-bc64-530f42f9e56a.png)
 
 The expenditure of tourists from the United Kingdom traveling to Thailand in 2018-2020 shows that it amounted to 72,458.57 million Baht in 2018. Then, the expenditure decreased by 139.84 million Baht in 2019 and the next year between the pandemic of COVID -19, the expenditure decreased by 56,840.37 million Baht. The total net expenditure in this period is 15,478.36 million Baht.
+
+## Summary
+From 4 countries we've analyzed, we can visualize the Top spending.
+| Country        |   Total Spend (M. Baht) |
+|:---------------|------------------------:|
+| China          |             1.12356e+06 |
+| Russia         |        242536           |
+| Malaysia       |        229477           |
+| United Kingdom |        160256           |
+
+The top spending is China which spend 1,123,561.04 million Baht during 2018 - 2020. The rest are way too far from China spending.  
+We can say that China have the most impact in Thailand's tourism.  
+
+| Country        |   Spending per Capita (Baht/Day) |   Length of Stay (Days) |
+|:---------------|---------------------------------:|------------------------:|
+| China          |                          5842    |                 8.47333 |
+| Malaysia       |                          4528.53 |                 5.93333 |
+| Russia         |                          3880.56 |                16.7467  |
+| United Kingdom |                          3873.17 |                18.11    |
+
+Looking into Spending per Capita per Day, China still the first place which spend 5842 Baht per people per day.  
+However, two countries from Europe are stay in Thailand longer than East Asia but spend less.  
+
+| Country        |   Year |   Expenditure Change (M. Baht) |
+|:---------------|-------:|-------------------------------:|
+| China          |   2020 |                      -461857   |
+| Malaysia       |   2020 |                       -89965   |
+| Russia         |   2020 |                       -68282.3 |
+| United Kingdom |   2020 |                       -56840.4 |
+
+The changes in expenditure. We lost 461857 million Baht from China in 2020. That is the hugh amount of income we lost during the pandemic.
