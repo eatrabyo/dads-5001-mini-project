@@ -2,6 +2,10 @@
 
 ## Tourism in Thailand during COVID-19 Situation
 
+### Contributors of this project
+* Itthisak Pratukaew
+* Karuntarat Komtongkaew
+
 ## Source
 1. [Ministry of Tourism and Sport of Thailand](https://www.mots.go.th/more_news_new.php?cid=411)
 2. []()
