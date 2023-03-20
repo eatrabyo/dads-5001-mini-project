@@ -27,50 +27,52 @@ Against this backdrop, we seek to investigate whether the Thai government's deci
 * 14th of January 2023 - the Guardian reported about the increase in fatalities in China.
 
 ### Overall Tourist Arrivals in Thailand (2019 - 2022)
-* According to the **World Travel and Tourism Council (WTTC)**, travel and tourism contributed 21.6% to Thailand's GDP in 2019.
-* In 2019, tourism supported 8.9 million jobs in the country, which is around 21.5% of total employment in Thailand.
-* The number of international visitors increased from 35.4 million in 2017 to 38.3 million in 2018.
-* In 2019, tourism generated revenue of around 1.9 trillion Baht for the Thai economy.
-* The COVID-19 pandemic was officially declared by the World Health Organization (WHO) on March 11, 2020.  
-The pandemic has significantly impacted Thailand's tourism industry, with the number of international visitors dropping by more than 80% in 2020 compared to the previous year as can be seen from the bar chart below.  
+*	The number of international visitors increased from 35.4 million in 2017 to 38.3 million in 2018.
+*	According to the **World Travel and Tourism Council (WTTC)**, travel and tourism contributed 21.6% to Thailand's GDP in 2019.
+*	In 2019, tourism supported 8.9 million jobs in the country, which is around 21.5% of total employment in Thailand.
+*	In 2019, tourism generated revenue of around 1.9 trillion Baht for the Thai economy.
+* The COVID-19 pandemic was officially declared by the World Health Organization (WHO) on March 11, 2020.
+The pandemic has significantly impacted Thailand's tourism industry, with the number of international visitors dropping by more than 80% in 2020 compared to the previous year as can be seen from the bar chart below.
+
 ![overall_tourist_arrival](https://user-images.githubusercontent.com/92035314/226192653-db63a3b1-ebe4-438e-971f-586641cedc19.png)
 
 ### Overall Tourist Arrivals in Thailand by Region (2019 - 2022)
 ![over_by_region](https://user-images.githubusercontent.com/92035314/226194620-b3310c80-b903-4df3-98d3-ffadc12047cf.png)
 
-From the source, we slice data from pandas by region to see the top region coming to Thailand.
-The top 2 are East Asia and Europe which has 37.10 million and 11.59 million arrivals respectively in fig.1. East Asia and Europe have a huge impact on Thailand's tourism.  
-When we convert the number of arrivals into proportions represented in fig. 2. East Asia and Europe have 63% and 20% respectively while other regions are not nearly 10 %.
+From slicing the data from pandas by region, it was revealed that the top two regions contributing to Thailand's tourism were East Asia and Europe, with 37.10 million and 11.59 million arrivals, respectively, as shown in Figure 1. These regions exerted a significant influence on Thailand's tourism industry.  
+
+Upon further analysis, it was found that when the number of arrivals for each region was converted into proportions, as depicted in Figure 2, East Asia and Europe emerged as the major players, accounting for 63% and 20% of the total, respectively. In contrast, the other regions collectively contributed less than 10%, highlighting the significant impact of East Asia and Europe on Thailand's tourism landscape.  
+
+From this point onwards, the focus will be on delving deeper into East Asia and Europe by selecting the top two countries from each region for further analysis. For each country, two important pieces of information are presented: the number of arrivals and expenditures. The number of arrivals is displayed on a line chart, which allows for the identification of trends over time. In contrast, expenditure is visualized using a waterfall graph, providing a clear view of the increases and decreases in expenditure for each year. Additionally, the net value after the considered period is also shown.  
 
 ## East Asia
 ### Proportion of Tourist Arrivals from East Asia (2019 - 2022)
 ![proportion_east_asia](https://user-images.githubusercontent.com/92035314/226196008-75c74e82-800d-4f61-85d2-fb00240737cc.png)
 
-The graph shows the proportion of tourists from different countries in East Asia during 2019 - 2022. It can be seen that in this period, most tourists will come from China, which accounts for 34% of the total. In second place is Malaysia with 19%, followed by Laos, Korea, and Japan with 7%, Singapore with 5%, Vietnam, Cambodia, and Hong Kong with 4%, Indonesia and Taiwan with 3%, the Philippines and Myanmar with 2% and finally Brunei with 0%.  
+The pie graph illustrates the proportion of tourists from various East Asian countries for the period between 2019 and 2022. As per the data, the highest proportion of visitors was from China, constituting 34% of the total visitors. Following China, Malaysia was the second-highest contributor with 19%, trailed by Laos, Korea, and Japan with 7% each. Singapore accounted for 5% of the visitors, while Vietnam, Cambodia, and Hong Kong were likely to share 4% of the total each. Additionally, Indonesia and Taiwan contributed 3% each, while the Philippines and Myanmar accounted for 2% each. Lastly, Brunei represented 0% of the total East Asian tourists visiting the region during the aforementioned period.
+The top 2 countries in East Asia, China, and Malaysia were selected to see the trend affected by COVID-19.  
 
-We select the top 2 countries in East Asia to see the trend affected by COVID-19.
 ## Chinese Tourist
 ### Tourist Arrivals from China (2019 - 2022)
 ![line_china](https://user-images.githubusercontent.com/92035314/226198158-5bdd62ce-bd77-4fe6-8928-621deafaa868.png)
 
-Chinese tourist have decrease due to COVID-19 situation. The number of arrivals drop from 11 million people in 2019 to 1.25 million in 2020. 
-Eventhough, the pandemic situation in 2022 is calm in Thailand but not in China. The 2022's number, 0.27 million people, has increased but not nearly half of the number of people coming during 2019.
+The COVID-19 pandemic has had a profound impact on the number of Chinese tourists visiting Thailand, with the number of arrivals plummeting from 11 million in 2019 to 1.25 million in 2020. While the pandemic situation in Thailand has stabilized by 2022, the situation remains uncertain in China. As a result, the number of Chinese tourists visiting Thailand in 2022 has risen to 0.27 million. However, this figure falls considerably short of the pre-pandemic levels recorded in 2019.  
 
-Due to lack of expenditure data in 2021 - 2022. We can only plot the changes in expenditure from 2018 to 2020.
+Unfortunately, the lack of expenditure data for the years 2021 and 2022 means that changes in spending patterns cannot be assessed for these years. Instead, we can only examine the trends in expenditure from 2018 to 2020.  
+
 ![waterfall_china](https://user-images.githubusercontent.com/92035314/226198466-41abcba3-b409-48d6-9272-f91cd30f9e6c.png)
 
-The expenditure from Chinese tourists in 2018 is 522,264.78 million Baht which increase a little in 2019 by 9,311.87 million Baht. And in 2020, during the outbreak of COVID-19, the spending of Chinese tourists decreased by 461,857.04 million Baht, resulting in the total net spending of Chinese tourists in the past 3 years at 69,719.61 million Baht.  
+In 2018, the expenditure of Chinese tourists in Thailand was recorded at 522,264.78 million Baht, experiencing a slight increase of 9,311.87 million Baht in 2019. However, the onset of the COVID-19 pandemic in 2020 saw a drastic decline in the spending of Chinese tourists, dropping by a staggering 461,857.04 million Baht. This led to the cumulative net expenditure of Chinese tourists over the past three years reaching 69,719.61 million Baht.   
 
 ## Malaysian Tourist
 ### Tourist Arrivals from Malaysia (2019 -2022)
 ![line_malay](https://user-images.githubusercontent.com/92035314/226203798-8c75b352-53aa-4862-8a71-f3a3916fb924.png)
 
-Malaysia is the 2nd country that likes to travel to Thailand. In 2019, 4.27 million Malaysian are coming to Thailand, and drop to 0.62 million people in 2020. The pandemic situation in Malaysia is less severe than in China. Therefore, we can see a good recovery from Malaysian people which is 1.95 million people visiting Thailand.  
+Malaysia stands as the second-largest contributor of visitors to Thailand. The number of Malaysian visitors to Thailand amounted to 4.27 million in 2019. However, this figure dropped drastically to 0.62 million in 2020, due to the COVID-19 pandemic.   
 
 ![water_fall_malay_expend](https://user-images.githubusercontent.com/92035314/226199353-630fa5ff-b72b-4925-95c6-e9eba8c647ec.png)
 
-The graph shows the expenditure of Malaysian tourists traveling to Thailand during 2018-2020. It can be seen that in 2018, Malaysian tourists spent 104,525.81 million Baht.
-In 2019, the spending of tourists increased by 2,932.16 million Baht, and in 2020, during the pandemic of COVID-19, the spending decreased by 89,964.98 million Baht. Resulting in the total net spending of Malaysian tourists in the past 3 years at 17,492.99 million Baht.
+The waterfall graph represents the expenditure of Malaysian tourists during their visits to Thailand from 2018 to 2020. It can be observed that in 2018, Malaysian tourists spent 104,525.81 million Baht, which saw a marginal increase of 2,932.16 million Baht in 2019. However, the COVID-19 pandemic's impact was visible in 2020, as the spending by Malaysian tourists saw a sharp decline of 89,964.98 million Baht. The cumulative net expenditure of Malaysian tourists during the three years from 2018 to 2020 amounted to 17,492.99 million Baht.  
 
 ## Europe
 ![europe_proportion](https://user-images.githubusercontent.com/92035314/226199398-889faf54-7cbc-4c0b-a6fc-b6671e1f58d1.png)
