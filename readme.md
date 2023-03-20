@@ -109,7 +109,7 @@ From the 4 countries selected, it can visualize the Top spender in the table bel
 | Malaysia       |        229477           |
 | United Kingdom |        160256           |
  
-Next, Spending per Capita per Day is considered. China was still the first place which spent 5842 Baht per person per day. Comparing Russian and British travelers with Chinese travelers, the Chinese spent more in a twice shorter stay. This makes Chinese travelers even more attractive to the Thai tourism industry.
+Next, Spending per Capita per Day is considered. China was still the first place which spent 5,842 Baht per person per day. Comparing Russian and British travelers with Chinese travelers, the Chinese spent more in a twice shorter stay. This makes Chinese travelers even more attractive to the Thai tourism industry.
 | Country        |   Spending per Capita (Baht/Day) |   Length of Stay (Days) |
 |:---------------|---------------------------------:|------------------------:|
 | China          |                          5842    |                 8.47333 |
