@@ -12,11 +12,13 @@
 3. [The Guardian](https://www.theguardian.com/world/2023/jan/14/nearly-60000-people-have-died-of-covid-in-china-in-past-five-weeks)
 
 ## Introduction
-On January 14th, 2023, the Guardian reported that the death toll from COVID-19 in China had surged, with almost 60,000 deaths recorded in a five-week period. It is important to note that this figure only includes those who died in hospitals, and the actual number is expected to be higher.  
+The recent events surrounding the outbreak of COVID-19 in China have sent shockwaves throughout the global community. As reported by the Guardian on January 14th, 2023, the death toll in China has surged to almost 60,000 in a mere five-week period. However, this number only accounts for deaths recorded in hospitals, and the actual figure is feared to be even higher.  
 
-Earlier, on January 5th, 2023, the Thai government declared that Chinese travelers would only be tested for COVID-19. Shortly thereafter, on January 8th, 2023, China opened its borders to foreign visitors. On January 9th, 2023, the first 200 Chinese travelers arrived in Thailand.  
+Against this backdrop, on January 5th, 2023, the Thai government made a controversial decision to only test Chinese travelers for COVID-19. This decision has raised serious concerns among the people, who fear that it could lead to a spike in infections and deaths. Moreover, on January 8th, 2023, China opened its borders to foreign visitors, and on January 9th, 2023, the first 200 Chinese travelers arrived in Thailand.  
 
-These events have sparked concern among public health officials regarding the potential spread of the virus, particularly given the high number of fatalities in China. As such, it is imperative that governments worldwide continue to monitor the situation closely and take all necessary measures to contain the spread of COVID-19.  
+The potential repercussions of these developments cannot be understated. With the high number of fatalities in China, it is understandable that locals in Thailand are apprehensive about the spread of the virus. As such, it is incumbent upon governments worldwide to remain vigilant and take all necessary measures to contain the outbreak of COVID-19.  
+
+Against this backdrop, we seek to investigate whether the Thai government's decision to not test Chinese travelers for COVID-19 was reasonable. By analyzing the available data and information, we hope to shed light on this important issue and contribute to the ongoing efforts to combat the spread of this deadly virus.  
 
 ### Timeline
 * 5th of January 2023 - The Thai government has declared that Chinese travelers would on be tested for COVID-19.
