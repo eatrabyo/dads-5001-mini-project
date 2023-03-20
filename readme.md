@@ -112,10 +112,10 @@ From the 4 countries selected, it can visualize the Top spender in the table bel
 Next, Spending per Capita per Day is considered. China was still the first place which spent 5,842 Baht per person per day. Comparing Russian and British travelers with Chinese travelers, the Chinese spent more in a twice shorter stay. This makes Chinese travelers even more attractive to the Thai tourism industry.
 | Country        |   Spending per Capita (Baht/Day) |   Length of Stay (Days) |
 |:---------------|---------------------------------:|------------------------:|
-| China          |                          5,842.00|                 8.47    |
-| Malaysia       |                          4,528.53|                 5.93    |
-| Russia         |                          3,880.56|                16.74    |
-| United Kingdom |                          3,873.17|                18.11    |
+| China          |                          5,842   |                 8       |
+| Malaysia       |                          4,529   |                 6       |
+| Russia         |                          3,881   |                17       |
+| United Kingdom |                          3,873   |                18       |
  
 
 The changes in expenditure Thailand lost during the pandemic. We lost 461,857 million Baht from China alone in 2020. That is the enormous amount of income that Thailand could have gained during the normal situation.  
