@@ -8,8 +8,21 @@
 
 ## Source
 1. [Ministry of Tourism and Sport of Thailand](https://www.mots.go.th/more_news_new.php?cid=411)
-2. []()
-3. []()
+2. [National Statistical Office of Thailand](http://statbbi.nso.go.th/staticreport/page/sector/en/17.aspx)
+3. [The Guardian](https://www.theguardian.com/world/2023/jan/14/nearly-60000-people-have-died-of-covid-in-china-in-past-five-weeks)
+
+## Introduction
+On January 14th, 2023, the Guardian reported that the death toll from COVID-19 in China had surged, with almost 60,000 deaths recorded in a five-week period. It is important to note that this figure only includes those who died in hospitals, and the actual number is expected to be higher.  
+
+Earlier, on January 5th, 2023, the Thai government declared that Chinese travelers would only be tested for COVID-19. Shortly thereafter, on January 8th, 2023, China opened its borders to foreign visitors. On January 9th, 2023, the first 200 Chinese travelers arrived in Thailand.  
+
+These events have sparked concern among public health officials regarding the potential spread of the virus, particularly given the high number of fatalities in China. As such, it is imperative that governments worldwide continue to monitor the situation closely and take all necessary measures to contain the spread of COVID-19.  
+
+### Timeline
+* 5th of January 2023 - The Thai government has declared that Chinese travelers would on be tested for COVID-19.
+* 8th of January 2023 - China opened the country on the. 
+* 9th of January 2023 - The first 200 Chinese travelers entered Thailand.
+* 14th of January 2023 - the Guardian reported about the increase in fatalities in China.
 
 ### Overall Tourist Arrivals in Thailand (2019 - 2022)
 * According to the **World Travel and Tourism Council (WTTC)**, travel and tourism contributed 21.6% to Thailand's GDP in 2019.
@@ -89,7 +102,7 @@ The expenditure of tourists from the United Kingdom traveling to Thailand in 201
 From 4 countries we've analyzed, we can visualize the Top spending.
 | Country        |   Total Spend (M. Baht) |
 |:---------------|------------------------:|
-| China          |             1.12356e+06 |
+| China          |             1123561.04 |
 | Russia         |        242536           |
 | Malaysia       |        229477           |
 | United Kingdom |        160256           |
@@ -114,4 +127,4 @@ However, two countries from Europe are stay in Thailand longer than East Asia bu
 | Russia         |   2020 |                       -68282.3 |
 | United Kingdom |   2020 |                       -56840.4 |
 
-The changes in expenditure. We lost 461857 million Baht from China in 2020. That is the hugh amount of income we lost during the pandemic.
+The changes in expenditure. We lost 461857 million Baht from China in 2020. That is the hughe amount of income we lost during the pandemic.
