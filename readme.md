@@ -104,28 +104,28 @@ The expenditure of tourists from the United Kingdom traveling to Thailand in 201
 From the 4 countries selected, it can visualize the Top spender in the table below. The top spending is China which spent 1,123,561.04 million Baht during 2018 - 2020. The rest counties were substantially lower than China's spending. It can be concluded that China has an influence on Thai tourism.  
 | Country        |   Total Spend (M. Baht) |
 |:---------------|------------------------:|
-| China          |             1123561.04  |
-| Russia         |        242536           |
-| Malaysia       |        229477           |
-| United Kingdom |        160256           |
+| China          |             1,123,561   |
+| Russia         |        242,536          |
+| Malaysia       |        229,477          |
+| United Kingdom |        160,256          |
  
 Next, Spending per Capita per Day is considered. China was still the first place which spent 5,842 Baht per person per day. Comparing Russian and British travelers with Chinese travelers, the Chinese spent more in a twice shorter stay. This makes Chinese travelers even more attractive to the Thai tourism industry.
 | Country        |   Spending per Capita (Baht/Day) |   Length of Stay (Days) |
 |:---------------|---------------------------------:|------------------------:|
-| China          |                          5842    |                 8.47333 |
-| Malaysia       |                          4528.53 |                 5.93333 |
-| Russia         |                          3880.56 |                16.7467  |
-| United Kingdom |                          3873.17 |                18.11    |
+| China          |                          5,842.00|                 8.47    |
+| Malaysia       |                          4,528.53|                 5.93    |
+| Russia         |                          3,880.56|                16.74    |
+| United Kingdom |                          3,873.17|                18.11    |
  
 
 The changes in expenditure Thailand lost during the pandemic. We lost 461,857 million Baht from China alone in 2020. That is the enormous amount of income that Thailand could have gained during the normal situation.  
 
 | Country        |   Year |   Expenditure Change (M. Baht) |
 |:---------------|-------:|-------------------------------:|
-| China          |   2020 |                      -461857   |
-| Malaysia       |   2020 |                       -89965   |
-| Russia         |   2020 |                       -68282.3 |
-| United Kingdom |   2020 |                       -56840.4 |
+| China          |   2020 |                      -461,857  |
+| Malaysia       |   2020 |                       -89,965  |
+| Russia         |   2020 |                       -68,282  |
+| United Kingdom |   2020 |                       -56,840  |
 
 In summary, it can be concluded that the Thai economy heavily depends on Chinese travelers. As such, it is imperative for the government to devise alternative plans or revise existing strategies to mitigate the risks of relying on a single market. By eliminating the single failure mode, the Thai economy can achieve a greater degree of stability and sustainability.  
 
