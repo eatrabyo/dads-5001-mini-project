@@ -98,29 +98,27 @@ UK people visited Thailand with nearly 1 million people in 2019. The number duri
 
 ![water_fall_uk](https://user-images.githubusercontent.com/92035314/226203232-e265103e-9b4f-4b4a-bc64-530f42f9e56a.png)
 
-The expenditure of tourists from the United Kingdom traveling to Thailand in 2018-2020 shows that it amounted to 72,458.57 million Baht in 2018. Then, the expenditure decreased by 139.84 million Baht in 2019 and the next year between the pandemic of COVID -19, the expenditure decreased by 56,840.37 million Baht. The total net expenditure in this period is 15,478.36 million Baht.
+The expenditure of tourists from the United Kingdom traveling to Thailand in 2018-2020 shows that it amounted to 72,458.57 million Baht in 2018. Then, the expenditure decreased by 139.84 million Baht in 2019 and the next year between the pandemic of COVID-19, the expenditure decreased by 56,840.37 million Baht. The total net expenditure in this period is 15,478.36 million Baht.
 
 ## Summary
-From 4 countries we've analyzed, we can visualize the Top spending.
+From the 4 countries selected, it can visualize the Top spender in the table below. The top spending is China which spent 1,123,561.04 million Baht during 2018 - 2020. The rest counties were substantially lower than China's spending. It can be concluded that China has an influence on Thai tourism.  
 | Country        |   Total Spend (M. Baht) |
 |:---------------|------------------------:|
-| China          |             1123561.04 |
+| China          |             1123561.04  |
 | Russia         |        242536           |
 | Malaysia       |        229477           |
 | United Kingdom |        160256           |
-
-The top spending is China which spend 1,123,561.04 million Baht during 2018 - 2020. The rest are way too far from China spending.  
-We can say that China have the most impact in Thailand's tourism.  
-
+ 
+Next, Spending per Capita per Day is considered. China was still the first place which spent 5842 Baht per person per day. Comparing Russian and British travelers with Chinese travelers, the Chinese spent more in a twice shorter stay. This makes Chinese travelers even more attractive to the Thai tourism industry.
 | Country        |   Spending per Capita (Baht/Day) |   Length of Stay (Days) |
 |:---------------|---------------------------------:|------------------------:|
 | China          |                          5842    |                 8.47333 |
 | Malaysia       |                          4528.53 |                 5.93333 |
 | Russia         |                          3880.56 |                16.7467  |
 | United Kingdom |                          3873.17 |                18.11    |
+ 
 
-Looking into Spending per Capita per Day, China still the first place which spend 5842 Baht per people per day.  
-However, two countries from Europe are stay in Thailand longer than East Asia but spend less.  
+The changes in expenditure Thailand lost during the pandemic. We lost 461,857 million Baht from China alone in 2020. That is the enormous amount of income that Thailand could have gained during the normal situation.  
 
 | Country        |   Year |   Expenditure Change (M. Baht) |
 |:---------------|-------:|-------------------------------:|
@@ -129,4 +127,5 @@ However, two countries from Europe are stay in Thailand longer than East Asia bu
 | Russia         |   2020 |                       -68282.3 |
 | United Kingdom |   2020 |                       -56840.4 |
 
-The changes in expenditure. We lost 461857 million Baht from China in 2020. That is the hughe amount of income we lost during the pandemic.
+In summary, it can be concluded that the Thai economy heavily depends on Chinese travelers. As such, it is imperative for the government to devise alternative plans or revise existing strategies to mitigate the risks of relying on a single market. By eliminating the single failure mode, the Thai economy can achieve a greater degree of stability and sustainability.  
+
