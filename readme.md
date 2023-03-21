@@ -104,6 +104,12 @@ UK people visited Thailand with nearly 1 million people in 2019. The number duri
 The expenditure of tourists from the United Kingdom traveling to Thailand in 2018-2020 shows that it amounted to 72,458.57 million Baht in 2018. Then, the expenditure decreased by 139.84 million Baht in 2019 and the next year between the pandemic of COVID-19, the expenditure decreased by 56,840.37 million Baht. The total net expenditure in this period is 15,478.36 million Baht.
 
 ## Summary
+
+We plot line graph to compare the change in tourist arrivals among 4 countries we've selected. The shape of line plot is the same for all four.  
+However, the country that recover fast and come back to Thailand is Malaysia while the others still are coming in lower rate.
+
+![4lineplot](https://user-images.githubusercontent.com/92035314/226696476-d2a380b9-540f-4ea6-8e1a-7f073bf6e99d.png)
+
 From the 4 countries selected, it can visualize the Top spender in the table below. The top spending is China which spent 1,123,561 million Baht during 2018 - 2020. The rest counties were substantially lower than China's spending. It can be concluded that China has an influence on Thai tourism.  
 | Country        |   Total Spend (M. Baht) |
 |:---------------|------------------------:|
