@@ -23,7 +23,7 @@ From these, our group start to wonder and would like to explore why the Thai Gov
 
 ### Timeline in Summary
 * 5th of January 2023 - The Thai government has declared that Chinese travelers would on be tested for COVID-19.
-* 8th of January 2023 - China opened the country on the. 
+* 8th of January 2023 - China opened the country. 
 * 9th of January 2023 - The first 200 Chinese travelers entered Thailand.
 * 14th of January 2023 - the Guardian reported about the increase in fatalities in China.
 
