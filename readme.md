@@ -111,15 +111,18 @@ From the 4 countries selected, it can visualize the Top spender in the table bel
 | Russia         |        242,536          |
 | Malaysia       |        229,477          |
 | United Kingdom |        160,256          |
+
+![bar_total_spend](https://user-images.githubusercontent.com/92035314/226684193-8f916491-a25b-488d-91d2-c1cb681d6edd.png)
  
 Next, Spending per Capita per Day is considered. China was still the first place which spent 5,842 Baht per person per day. Comparing Russian and British travelers with Chinese travelers, the Chinese spent more in a twice shorter stay. This makes Chinese travelers even more attractive to the Thai tourism industry.
-| Country        |   Spending per Capita (Baht/Day) |   Length of Stay (Days) |
-|:---------------|---------------------------------:|------------------------:|
-| China          |                          5,842   |                 8       |
-| Malaysia       |                          4,529   |                 6       |
-| Russia         |                          3,881   |                17       |
-| United Kingdom |                          3,873   |                18       |
- 
+| Country        |   Average Spending per Capita (Baht/Day) |   Average Length of Stay (Days) |
+|:---------------|-----------------------------------------:|--------------------------------:|
+| China          |                          5,842           |                 8               |
+| Malaysia       |                          4,529           |                 6               |
+| Russia         |                          3,881           |                17               |
+| United Kingdom |                          3,873           |                18               |
+
+![2plots](https://user-images.githubusercontent.com/92035314/226686515-94ef0422-c73d-40f4-8da9-44ed4fa6e58e.png)
 
 The changes in expenditure Thailand lost during the pandemic. We lost 461,857 million Baht from China alone in 2020. That is the enormous amount of income that Thailand could have gained during the normal situation.  
 
@@ -129,6 +132,8 @@ The changes in expenditure Thailand lost during the pandemic. We lost 461,857 mi
 | Malaysia       |   2020 |                       -89,965  |
 | Russia         |   2020 |                       -68,282  |
 | United Kingdom |   2020 |                       -56,840  |
+
+![change_expend](https://user-images.githubusercontent.com/92035314/226687115-9d5c2611-ea73-4d25-ae09-b7f54e28b0df.png)
 
 In summary, it can be concluded that the Thai economy heavily depends on Chinese travelers. As such, it is imperative for the government to devise alternative plans or revise existing strategies to mitigate the risks of relying on a single market. By eliminating the single failure mode, the Thai economy can achieve a greater degree of stability and sustainability.  
 
