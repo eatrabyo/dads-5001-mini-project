@@ -8,19 +8,20 @@
 
 ## Source
 1. [Ministry of Tourism and Sport of Thailand](https://www.mots.go.th/more_news_new.php?cid=411)
+   * This source contains the number internaltional travelers visited Thailand each year and it is grouped by country of origin.
 2. [National Statistical Office of Thailand](http://statbbi.nso.go.th/staticreport/page/sector/en/17.aspx)
+   * This source contains expenditure of the travellers in each country spent duting their visit. This information also includes the length of stay of their trip.
 3. [The Guardian](https://www.theguardian.com/world/2023/jan/14/nearly-60000-people-have-died-of-covid-in-china-in-past-five-weeks)
+   * This is the new from the Guardian reported on the death in a 5-week period in China.
 
 ## Introduction
-The recent events surrounding the outbreak of COVID-19 in China have sent shockwaves throughout the global community. As reported by the Guardian on January 14th, 2023, the death toll in China has surged to almost 60,000 in a mere five-week period. However, this number only accounts for deaths recorded in hospitals, and the actual figure is feared to be even higher.  
+The recent events regarding the outbreak of COVID-19 in China have sent shockwaves throughout the global community. As reported by the Guardian on January 14th, 2023, the death toll in China has surged to almost 60,000 in a mere five-week period. However, this number only accounts for deaths recorded in hospitals, and the actual figure is feared to be even higher.  
 
-Against this backdrop, on January 5th, 2023, the Thai government made a controversial decision to only test Chinese travelers for COVID-19. This decision has raised serious concerns among the people, who fear that it could lead to a spike in infections and deaths. Moreover, on January 8th, 2023, China opened its borders to foreign visitors, and on January 9th, 2023, the first 200 Chinese travelers arrived in Thailand.  
+On the 5th of January 2023, the Thai government made a decision to not test Chinese travelers for COVID-19. This was before China opened its borders to foreign visitors on the 8th of January2023. As the China opened its boarder, the first group of 200 Chinese travelers entered Thailand on the 9th of January 2023. 
 
-The potential repercussions of these developments cannot be understated. With the high number of fatalities in China, it is understandable that locals in Thailand are apprehensive about the spread of the virus. As such, it is incumbent upon governments worldwide to remain vigilant and take all necessary measures to contain the outbreak of COVID-19.  
+From these, our group start to wonder and would like to explore why the Thai Government has made such decision while other countries in Europe still not lifting their regulation. Also, we would like to explore how much money Thailand earn from travel and turism industry.
 
-Against this backdrop, we seek to investigate whether the Thai government's decision to not test Chinese travelers for COVID-19 was reasonable. By analyzing the available data and information, we hope to shed light on this important issue and contribute to the ongoing efforts to combat the spread of this deadly virus.  
-
-### Timeline
+### Timeline in Summary
 * 5th of January 2023 - The Thai government has declared that Chinese travelers would on be tested for COVID-19.
 * 8th of January 2023 - China opened the country on the. 
 * 9th of January 2023 - The first 200 Chinese travelers entered Thailand.
