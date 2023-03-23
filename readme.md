@@ -1,6 +1,6 @@
 # DADS 5001 Mini Project
-
-## Tourism in Thailand during COVID-19 Situation
+This is a mini project for the Data Analytics and Data Science Tools and Programming (DADS 5001) subject, which is part of the Master of Science Program in Data Analytics and Data Science at the National Institute of Development Administration.  
+## Topic: Tourism in Thailand during COVID-19 Situation
 
 ### Contributors of this project
 * Itthisak Pratukaew
